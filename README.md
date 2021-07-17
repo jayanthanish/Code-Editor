@@ -1,6 +1,9 @@
 ## Saves Code
 In this App The code gets stored in memory and will be displayed after we refresh or close and get back to the page
 
+## Live View
+This App performs live view of the website that was created by User
+
 ## Available Scripts
 
 In the project directory, you can run:
